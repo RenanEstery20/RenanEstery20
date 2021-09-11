@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Renan Estery
+## HI! I'm Renan Estery
  <div>
   <a href="https://github.com/RenanEstery20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanEstery20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
